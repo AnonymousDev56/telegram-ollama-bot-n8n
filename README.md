@@ -2,6 +2,12 @@
 
 Локальный Telegram-бот, который принимает сообщения, отправляет их в Ollama через n8n и возвращает ответ пользователю.
 
+<img width="1919" height="995" alt="01-workflow-editor" src="https://github.com/user-attachments/assets/563b7fe3-fb67-4f30-bf7c-cc724ac62fe2" />
+
+<img width="1919" height="988" alt="02-execution-success" src="https://github.com/user-attachments/assets/5d1b1707-271d-4632-9a36-60b802f335ea" />
+
+<img width="1110" height="938" alt="03-telegram-chat" src="https://github.com/user-attachments/assets/eeeef588-7d07-4fc5-a7e5-d67e84dd9566" />
+
 ## Stack
 - n8n (Docker)
 - Telegram Bot API
