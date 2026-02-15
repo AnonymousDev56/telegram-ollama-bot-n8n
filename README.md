@@ -6,7 +6,7 @@
 
 <img width="1919" height="988" alt="02-execution-success" src="https://github.com/user-attachments/assets/5d1b1707-271d-4632-9a36-60b802f335ea" />
 
-<img width="1110" height="938" alt="03-telegram-chat" src="https://github.com/user-attachments/assets/eeeef588-7d07-4fc5-a7e5-d67e84dd9566" />
+<img width="1266" height="938" alt="03-telegram-chat (2)" src="https://github.com/user-attachments/assets/716ed979-db2e-40a2-8af8-aa8b2faf37ba" />
 
 ## Stack
 - n8n (Docker)
